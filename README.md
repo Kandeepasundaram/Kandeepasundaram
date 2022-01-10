@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Kandeepasundaram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, I am Kandeepa Sundaram
+#### Developer \ Systems Design Engineer
+![Developer \ Systems Design Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!---
-Kandeepasundaram/Kandeepasundaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What started as a love for java turned into an addiction to coding and learning new languages. 
+
+Skills: Angular / React / Python / Kotlin / Vue / Vaadin / Java / Struts 2 / Flex lets add more... 
+
+- 🔭 I’m currently working on https://github.com/Kandeepasundaram/devdiaryv1 
+- 🌱 I’m currently learning Svelte 
+
+
+
+
