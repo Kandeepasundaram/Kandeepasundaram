@@ -88,7 +88,7 @@
 - 👉 [View Repo](https://github.com/Kandeepasundaram/promptguard)
 
 ***
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -100,7 +100,7 @@
 </p>
 
 ***
-
+-->
 ## 🤝 Let's Connect
 
 I'm always happy to talk about:
