@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kandeepa Sundaram</h1>
+<h1 align="center">Hi, I'm Kandeepa Sundaram</h1>
 <h3 align="center">AI Architect · Building Enterprise GenAI & LLM Solutions · 18+ Years in Software Architecture</h3>
-
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.7cc74767-b5e7-4854-82b0-ff1e379f6da8.png" alt="GitHub Banner - Ideate · Innovate · Implement" width="100%">
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kandeepasundaram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kandeepasundaram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
