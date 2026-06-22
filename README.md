@@ -18,6 +18,7 @@
 - 🤖 **AI Architect** focused on **Generative AI** — RAG pipelines, LLM orchestration, structured-output systems, and AI governance.
 - 🏛️ **18+ years** architecting enterprise software at **Cognizant** — microservices, cloud-native platforms, and full-stack systems.
 - 🚀 Led the architecture of an **AI-powered SDLC automation platform** (Azure OpenAI GPT-4) that turns Business Requirement Documents into user stories, test cases, and executable test scripts — end to end.
+- 🔧 Shipped **[Grit](https://github.com/Kandeepasundaram/Grit)** — an open-source, cross-platform Git identity manager (Python · TypeScript).
 - 🛠️ Currently **building a GenAI portfolio in public** — new project + learnings every week.
 - 🎓 **Master of Computer Applications (MCA)**, Kumaraguru College of Technology.
 - 📍 Based in **Coimbatore, India** · 💼 **Open to AI Architect roles.**
@@ -67,7 +68,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔎 DocuMind — RAG Document Q&A
+
+### 🔧 Grit — Multi-Identity Git Manager
+> A cross-platform background daemon that auto-applies the **right Git identity** (name, email, GPG & SSH keys) per repository
+  — no more commits from the wrong account.
+- Session-based memory with per-repo profiles; auto-detection via `.grit` files, path, or remote-URL patterns
+- Git pre-commit hooks, system-tray indicator, VS Code extension, per-profile GPG signing & SSH routing
+- Full test suite (pytest), CI/CD, typed with mypy + ruff
+- **Stack:** Python · TypeScript · PyQt6 · Git
+- 👉 [View Repo](https://github.com/Kandeepasundaram/Grit)
+
+### 🔎 DocuMind — RAG Document Q&A `🚧 shipping soon`
 > Ask questions over any PDF and get answers **with citations** — no "trust me, the AI said so."
 
 - Smart chunking → Gemini embeddings → ChromaDB vector search → cited answers
@@ -75,7 +86,7 @@
 - **Stack:** Python · FastAPI · Gemini · ChromaDB · React
 - 👉 [View Repo](https://github.com/Kandeepasundaram/documind)
 
-### 🧩 AgentForge — BRD → Test Artifacts
+### 🧩 AgentForge — BRD → Test Artifacts `🚧 shipping soon`
 > Turns a feature brief into **user stories → test scenarios → test cases → edge cases** via a validated LLM chain.
 
 - Pydantic-enforced structured output with configurable coverage (smoke / regression / full)
@@ -83,7 +94,7 @@
 - **Stack:** Python · Pydantic · Gemini · React
 - 👉 [View Repo](https://github.com/Kandeepasundaram/agentforge)
 
-### 🛡️ PromptGuard — Prompt Registry & Evaluation
+### 🛡️ PromptGuard — Prompt Registry & Evaluation `🚧 shipping soon`
 > The unglamorous-but-critical layer: **version, evaluate, and govern** prompts before they hit production.
 
 - Prompt versioning + eval runner scoring relevance, format-compliance, latency, hallucination
